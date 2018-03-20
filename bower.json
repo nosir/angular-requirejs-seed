@@ -6,6 +6,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
+    "cleave": "1.2.1",
     "angular": "1.4.x",
     "angular-route": "1.4.x",
     "angular-loader": "1.4.x",

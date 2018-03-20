@@ -32,3 +32,8 @@
 [ng-cloak] {
     display: none;
 }
+
+input {
+  font-size: 64px;
+  width: 100%;
+}
